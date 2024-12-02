@@ -29,6 +29,8 @@ Planned improvements include:
 
 A dedicated team of **X developers** will focus on enhancing Qubic Connect Snap. Roles include:  
 
+**(ADD OR REMOVE ROLES AS NEEDED)**
+
 - **Technical Lead (Filled)**  
   - Required: Proven experience in MetaMask Snap development.  
   - Focus on overall architecture and performance optimization.  

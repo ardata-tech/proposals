@@ -1,6 +1,6 @@
 # Proposal  
 
-Request for funding to support the development of a **Rust SDK for Qubic**, aimed at providing developers with a simple, type-safe, and efficient interface for interacting with Qubic's RPC APIs. The total requested amount is **USD XX,XXX**, covering development, testing, and documentation costs over the next **X months**.  
+Request for funding to support the development of a **Rust SDK for Qubic**, aimed at providing developers with a simple, type-safe, and efficient interface for interacting with Qubic's RPC APIs. The total requested amount is **USD 31,200**, covering development, testing, and documentation costs over the next **3 months**.  
 
 ### Available Options:  
 
@@ -118,25 +118,25 @@ A dedicated team of **X developers** will focus on building the Rust SDK for Qub
 
 ## Project Timeline and Milestones  
 
-### Phase 1: Foundation (Months X)  
+### Phase 1: Foundation (Month 1)  
 
 - Set up the project and initialize the core modules.  
 - Implement basic functionality for retrieving ticks and balances.  
 - Establish the testing framework and write initial unit tests.  
 
-### Phase 2: Core Features (Months X)  
+### Phase 2: Core Features (Month 1-2)  
 
 - Add support for transaction-related endpoints.  
 - Implement error handling and logging utilities.  
 - Begin writing integration tests.  
 
-### Phase 3: Advanced Functionality (Months X)  
+### Phase 3: Advanced Functionality (Month 2-3)  
 
 - Implement smart contract interaction and asset management.  
 - Optimize performance for asynchronous operations.  
 - Finalize testing for all modules.  
 
-### Phase 4: Testing and Documentation (Months X)  
+### Phase 4: Testing and Documentation (Month 3)  
 
 - Conduct end-to-end testing.  
 - Write detailed documentation and examples.  
@@ -166,19 +166,18 @@ A dedicated team of **X developers** will focus on building the Rust SDK for Qub
 
 | **Item**                       | **Cost (USD)** |  
 |--------------------------------|----------------|  
-| Core Module Implementation     | XX,XXX         |  
-| Endpoint Development           | XX,XXX         |  
-| Testing Framework & Integration| XX,XXX         |  
-| Documentation                  | XX,XXX         |  
-| Project Management             | XX,XXX         |  
-| **Total**                      | **XX,XXX**     |  
+| Core Module Implementation     | 9,600          |  
+| Endpoint Development           | 12,000         |  
+| Testing Framework & Integration| 7,200          |  
+| Documentation                  | 1,200          |  
+| Project Management             | 1,200          |  
+| **Total**                      | **31,200**     |  
 
 ### Payment Schedule  
 
-- 25% upon project initiation (**USD XX,XXX**).  
-- 25% upon completion of Phase 1 & 2.  
-- 25% upon completion of Phase 3.  
-- 25% upon final approval and release.  
+- Initial deposit: 40% ($12,480) due before project commencement
+- Progress payments: 50% ($15,600) distributed across project milestones
+- Final payment: 10% ($3,120) upon successful completion and handover
 
 ---
 

@@ -1,6 +1,6 @@
 # Proposal  
 
-Request for funding to support the development of **Qubic Connect Snap Enhancements**, aimed at improving code quality, maintainability, functionality, security, and user experience. The total requested amount is **USD XX,XXX**, covering development, testing, and documentation costs over the next **4.5 Months**.  
+Request for funding to support the development of **Qubic Connect Snap Enhancements**, aimed at improving code quality, maintainability, functionality, security, and user experience. The total requested amount is **USD 43,200**, covering development, testing, and documentation costs over the next **4.5 Months**.  
 
 ### Available Options:  
 

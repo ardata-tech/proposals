@@ -27,23 +27,21 @@ Planned improvements include:
 
 ## The Team  
 
-A dedicated team of **X developers** will focus on enhancing Qubic Connect Snap. Roles include:  
+A dedicated team will focus on enhancing Qubic Connect Snap. Roles include:  
 
-**(ADD OR REMOVE ROLES AS NEEDED)**
-
-- **Technical Lead (Filled)**  
+- **Technical Lead**  
   - Required: Proven experience in MetaMask Snap development.  
   - Focus on overall architecture and performance optimization.  
-- **Security Engineer (To be filled)**  
+- **Security Engineer**  
   - Required: 5+ years of experience in cryptographic and security engineering.  
   - Focus on mitigating security risks and implementing secure cryptographic patterns.  
-- **Frontend Developer (Filled)**  
+- **Frontend Developer**  
   - Required: Expertise in JavaScript and Snap interface development.  
   - Focus on enhancing user prompts and interaction flows.  
-- **Test Engineer (To be filled)**  
+- **Test Engineer**  
   - Required: 3+ years of experience in software testing, including UI and API tests.  
   - Focus on unit, integration, and performance testing.  
-- **Documentation Specialist (To be filled)**  
+- **Documentation Specialist**  
   - Required: Experience with technical documentation tools like Swagger.  
   - Focus on creating detailed developer guides and user manuals.  
 

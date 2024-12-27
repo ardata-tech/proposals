@@ -138,10 +138,9 @@ A dedicated team will work on the Qubic integration with TrustWallet. Roles incl
 
 #### Payment Schedule  
 
-- 25% upon project initiation (**USD 16,500**).  
-- 25% upon completion of Phase 1 & 2.  
-- 25% upon completion of Phase 3.  
-- 25% upon final approval and release.  
+- Initial deposit: 40% (USD 26,400) due before project commencement
+- Progress payments: 50% (USD 33,000) distributed across project milestones
+- Final payment: 10% (USD 6,600) upon successful completion and handover
 
 ---
 

@@ -26,23 +26,23 @@ Planned features include:
 
 ## The Team  
 
-A dedicated team of **X developers** will focus on building the Rust SDK for Qubic. Roles include:  
+A dedicated team will focus on building the Rust SDK for Qubic. Roles include:  
 
 **(ADD OR REMOVE ROLES AS NEEDED)**
 
-- **Technical Lead (Filled)**  
+- **Technical Lead**  
   - Required: Experience in Rust development and SDK design.  
   - Focus on architecture, core module implementation, and performance optimization.  
 
-- **Backend Developer (To be filled)**  
+- **Backend Developer**  
   - Required: Strong experience in Rust async programming.  
   - Focus on implementing RPC endpoints and handling asynchronous operations.  
 
-- **Test Engineer (To be filled)**  
+- **Test Engineer**  
   - Required: Experience with unit and integration testing in Rust.  
   - Focus on writing robust test cases and setting up mock API environments.  
 
-- **Documentation Specialist (To be filled)**  
+- **Documentation Specialist**  
   - Required: Familiarity with `rustdoc` and technical writing for developers.  
   - Focus on inline documentation, examples, and API references.  
 

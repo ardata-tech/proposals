@@ -28,8 +28,6 @@ Planned features include:
 
 A dedicated team will focus on building the Rust SDK for Qubic. Roles include:  
 
-**(ADD OR REMOVE ROLES AS NEEDED)**
-
 - **Technical Lead**  
   - Required: Experience in Rust development and SDK design.  
   - Focus on architecture, core module implementation, and performance optimization.  

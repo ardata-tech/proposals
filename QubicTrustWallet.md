@@ -2,7 +2,7 @@
 
 **Request for Funding to Integrate Qubic with TrustWallet**  
 
-This proposal seeks funding to integrate **Qubic** into **TrustWallet**, enabling seamless management of Qubic-based assets and interactions with Qubic's ecosystem. The integration aims to enhance user experience by providing a streamlined interface for Qubic's tokens, balances, transactions, and smart contract interactions within TrustWallet. The total requested amount is **USD XX,XXX**, covering development, testing, and documentation costs over the next **X months**.  
+This proposal seeks funding to integrate **Qubic** into **TrustWallet**, enabling seamless management of Qubic-based assets and interactions with Qubic's ecosystem. The integration aims to enhance user experience by providing a streamlined interface for Qubic's tokens, balances, transactions, and smart contract interactions within TrustWallet. The total requested amount is **USD 66,000**, covering development, testing, and documentation costs over the next **5 months**.  
 
 ---
 
@@ -49,27 +49,25 @@ TrustWallet is one of the most popular decentralized wallets, with millions of u
 
 ### The Team  
 
-A dedicated team of **X developers** will work on the Qubic integration with TrustWallet. Roles include:  
+A dedicated team will work on the Qubic integration with TrustWallet. Roles include:  
 
-**(ADD OR REMOVE ROLES AS NEEDED)**  
-
-- **Technical Lead (Filled)**  
+- **Technical Lead**  
   - Required: Expertise in blockchain development and TrustWallet integrations.  
   - Focus on architecture design and core module implementation.  
 
-- **Blockchain Developer (To be filled)**  
+- **Blockchain Developer**  
   - Required: Experience in Rust, Solidity, and wallet integrations.  
   - Focus on Qubic's RPC interaction and integration logic.  
 
-- **Frontend Engineer (To be filled)**  
+- **Frontend Engineer**  
   - Required: Experience with TrustWallet's interface and SDK.  
   - Focus on user interface and ensuring a seamless experience.  
 
-- **Test Engineer (To be filled)**  
+- **Test Engineer**  
   - Required: Familiarity with integration testing in blockchain environments.  
   - Focus on testing integration functionality and edge cases.  
 
-- **Documentation Specialist (To be filled)**  
+- **Documentation Specialist**  
   - Required: Expertise in writing user-facing guides.  
   - Focus on creating documentation for developers and users.  
 
@@ -109,19 +107,19 @@ A dedicated team of **X developers** will work on the Qubic integration with Tru
 
 ### Project Timeline and Milestones  
 
-#### Phase 1: Foundation (Months X)  
+#### Phase 1: Foundation (Months 1)  
 - Set up development environment and initialize Qubic RPC client.  
 - Implement basic functionality for retrieving balances.  
 
-#### Phase 2: Transaction Support (Months X)  
+#### Phase 2: Transaction Support (Months 2-3)  
 - Add transaction functionality, including broadcasting and status checks.  
 - Write unit and integration tests for transaction modules.  
 
-#### Phase 3: Smart Contracts and Network Insights (Months X)  
+#### Phase 3: Smart Contracts and Network Insights (Months 4)  
 - Implement smart contract interaction and network status checks.  
 - Conduct end-to-end testing for all functionalities.  
 
-#### Phase 4: Testing, Documentation, and Release (Months X)  
+#### Phase 4: Testing, Documentation, and Release (Months 5)  
 - Finalize testing and address all edge cases.  
 - Write detailed documentation and release to TrustWallet.  
 
@@ -131,16 +129,16 @@ A dedicated team of **X developers** will work on the Qubic integration with Tru
 
 | **Item**                       | **Cost (USD)** |  
 |--------------------------------|----------------|  
-| Core Module Implementation     | XX,XXX         |  
-| Wallet Integration             | XX,XXX         |  
-| Testing Framework & Integration| XX,XXX         |  
-| Documentation                  | XX,XXX         |  
-| Project Management             | XX,XXX         |  
-| **Total**                      | **XX,XXX**     |  
+| Core Module Implementation     | 24,000         |  
+| Wallet Integration             | 18,000         |  
+| Testing Framework & Integration| 12,000         |  
+| Documentation                  | 6,000          |  
+| Project Management             | 6,000          |  
+| **Total**                      | **66,000**     |  
 
 #### Payment Schedule  
 
-- 25% upon project initiation (**USD XX,XXX**).  
+- 25% upon project initiation (**USD 16,500**).  
 - 25% upon completion of Phase 1 & 2.  
 - 25% upon completion of Phase 3.  
 - 25% upon final approval and release.  

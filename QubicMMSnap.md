@@ -1,6 +1,6 @@
 # Proposal  
 
-Request for funding to support the development of **Qubic Connect Snap Enhancements**, aimed at improving code quality, maintainability, functionality, security, and user experience. The total requested amount is **USD XX,XXX**, covering development, testing, and documentation costs over the next **X months**.  
+Request for funding to support the development of **Qubic Connect Snap Enhancements**, aimed at improving code quality, maintainability, functionality, security, and user experience. The total requested amount is **USD 43,200**, covering development, testing, and documentation costs over the next **4.5 Months**.  
 
 ### Available Options:  
 
@@ -83,29 +83,29 @@ A dedicated team of **X developers** will focus on enhancing Qubic Connect Snap.
 
 ## Project Timeline and Milestones  
 
-### Phase 1: Code Quality and Maintainability (Months X)  
+### Phase 1: Code Quality and Maintainability **Duration: 3 weeks**
 
 - Modularize handlers.  
 - Centralize configuration constants.  
 - Implement linting and formatting tools.  
 
-### Phase 2: Security Enhancements (Months X)  
+### Phase 2: Security Enhancements **Duration: 6 weeks**
 
 - Implement nonce-based replay attack protection.  
 - Enhance input validation and sanitization.  
 - Encrypt sensitive data in memory.  
 
-### Phase 3: Performance Optimizations (Months X)  
+### Phase 3: Performance Optimizations **Duration: 6 weeks**
 
 - Optimize cryptographic operations.  
 - Improve handling of large transactions.  
 - Parallelize asynchronous tasks.  
 
-### Phase 4: Testing and Documentation (Months X)  
+### Phase 4: Testing and Documentation **Duration: 3 weeks**
 
 - Develop unit and integration tests.  
 - Finalize technical documentation.  
-- Conduct a security audit.  
+- Conduct a security audit.
 
 ---
 
@@ -135,19 +135,18 @@ A dedicated team of **X developers** will focus on enhancing Qubic Connect Snap.
 
 | **Item**                        | **Cost (USD)** |  
 |---------------------------------|----------------|  
-| Code Quality Improvements       | XX,XXX         |  
-| Security Enhancements           | XX,XXX         |  
-| Performance Optimization        | XX,XXX         |  
-| Testing and Documentation       | XX,XXX         |  
-| Project Management & Overheads  | XX,XXX         |  
-| **Total**                       | **XX,XXX**     |  
+| Code Quality Improvements       | 12,960         |  
+| Security Enhancements           | 10,800         |  
+| Performance Optimization        | 8,640          |  
+| Testing and Documentation       | 5,400          |  
+| Project Management & Overheads  | 5,400          |  
+| **Total**                       | **43,200**     |  
 
 ### Payment Schedule  
 
-- 25% upon project initiation (**USD XX,XXX**).  
-- 25% upon completion of Phase 1 & 2.  
-- 25% upon completion of Phase 3.  
-- 25% upon final approval and audit.  
+- Initial deposit: 40% (**$17,280**) due before project commencement
+- Progress payments: 50% (**$21,600**) distributed across project milestones
+- Final payment: 10% (**$4,320**) upon successful completion and handover 
 
 ---
 

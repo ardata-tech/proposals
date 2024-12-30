@@ -2,7 +2,7 @@
 
 **Request for Funding to Integrate Qubic with TrustWallet**  
 
-This proposal seeks funding to integrate **Qubic** into **TrustWallet**, enabling seamless management of Qubic-based assets and interactions with Qubic's ecosystem. The integration aims to enhance user experience by providing a streamlined interface for Qubic's tokens, balances, transactions, and smart contract interactions within TrustWallet. The total requested amount is **USD 66,000**, covering development, testing, and documentation costs over the next **5 months**.  
+This proposal requests funding to integrate **Qubic** into **TrustWallet**, facilitating seamless management of Qubic-based assets and interactions within its ecosystem. The integration will improve the user experience by offering an intuitive interface for handling Qubic tokens, balances, transactions, and smart contract interactions directly within TrustWallet. The total funding required is **USD 67,600**, which will cover development, testing, and documentation expenses over the next **3 to 4 months**.
 
 ---
 
@@ -43,7 +43,10 @@ TrustWallet is one of the most popular decentralized wallets, with millions of u
    - Show blockchain status, block height, and health check directly in TrustWallet.  
 
 5. **User-Friendly Design**  
-   - Seamless integration with TrustWallet's intuitive interface.  
+   - Seamless integration with TrustWallet's intuitive interface.
+  
+6. **Coordination with TrustWallet team**
+   - As part of our Definition of Done, the team will ensure the integration of Qubic is available in the TrustWallet production application. This will involve coordinating tasks such as submitting pull requests, conducting reviews, facilitating discussions, and following up to guarantee the successful implementation of Qubic within the TrustWallet app. 
 
 ---
 
@@ -87,7 +90,7 @@ A dedicated team will work on the Qubic integration with TrustWallet. Roles incl
 
 - **Initialization**  
   - Set up TrustWallet integration modules.  
-  - Create a Qubic RPC client using Rust and integrate with TrustWallet SDK.  
+  - Create a Qubic RPC client using Typescript and integrate with TrustWallet SDK.  
 
 - **Module Implementation**  
   - Develop modules for transactions, balances, and smart contracts.  
@@ -101,27 +104,30 @@ A dedicated team will work on the Qubic integration with TrustWallet. Roles incl
   - Write detailed guides for users and developers.  
 
 - **Release**  
-  - Publish updates to TrustWallet and Qubic's repositories.  
+  - Publish updates to TrustWallet and Qubic's repositories.
 
 ---
 
 ### Project Timeline and Milestones  
 
-#### Phase 1: Foundation (Months 1)  
+A 3-month milestone that will cover all core functionalities of the integration, with the 4th month reserved as a buffer for addressing any potential issues.
+
+
+#### Phase 1: Foundation (Month 1)
 - Set up development environment and initialize Qubic RPC client.  
 - Implement basic functionality for retrieving balances.  
 
-#### Phase 2: Transaction Support (Months 2-3)  
+#### Phase 2: Transaction Support (Month 2)  
 - Add transaction functionality, including broadcasting and status checks.  
 - Write unit and integration tests for transaction modules.  
 
-#### Phase 3: Smart Contracts and Network Insights (Months 4)  
+#### Phase 3: Smart Contracts and Network Insights (Months 2 to 3)  
 - Implement smart contract interaction and network status checks.  
 - Conduct end-to-end testing for all functionalities.  
 
-#### Phase 4: Testing, Documentation, and Release (Months 5)  
+#### Phase 4: Testing, Documentation, Release and post-production support (Months 3 to 4)  
 - Finalize testing and address all edge cases.  
-- Write detailed documentation and release to TrustWallet.  
+- Write detailed documentation and release to TrustWallet.
 
 ---
 
@@ -132,15 +138,16 @@ A dedicated team will work on the Qubic integration with TrustWallet. Roles incl
 | Core Module Implementation     | 24,000         |  
 | Wallet Integration             | 18,000         |  
 | Testing Framework & Integration| 12,000         |  
-| Documentation                  | 6,000          |  
-| Project Management             | 6,000          |  
-| **Total**                      | **66,000**     |  
+| Documentation                  | 6,500          |  
+| Project Management             | 6,500          |  
+| Pull Request to Trust Wallet   | 600            |  
+| **Total**                      | **67,600**     |  
 
 #### Payment Schedule  
 
-- Initial deposit: 40% (USD 26,400) due before project commencement
-- Progress payments: 50% (USD 33,000) distributed across project milestones
-- Final payment: 10% (USD 6,600) upon successful completion and handover
+- Initial Deposit: 40% (USD 27,040) due before project commencement
+- Progress Payments: 50% (USD 33,800) distributed across project milestones
+- Final Payment: 10% (USD 6,760) upon successful completion and handover
 
 ---
 
@@ -172,7 +179,3 @@ A dedicated team will work on the Qubic integration with TrustWallet. Roles incl
 - **Feature Expansion**: Add support for multi-signature transactions and advanced asset management.  
 - **Community Engagement**: Publish tutorials and host events to drive adoption.  
 - **Continuous Maintenance**: Ensure compatibility with future TrustWallet updates.  
-
----
-
-This proposal seeks funding to integrate Qubic with TrustWallet, empowering users to manage their Qubic assets with ease while promoting Qubic's ecosystem to millions of TrustWallet users worldwide.
